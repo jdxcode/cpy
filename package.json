@@ -1,6 +1,6 @@
 {
-	"name": "cpy",
-	"version": "8.1.2",
+	"name": "@jdxcode/cpy",
+	"version": "8.1.3",
 	"description": "Copy files",
 	"license": "MIT",
 	"repository": "sindresorhus/cpy",
